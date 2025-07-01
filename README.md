@@ -1,22 +1,22 @@
 # Metadata of American Universities
 
-Ce projet explore et traite les métadonnées d’universités américaines à partir des données fournies par l’**Integrated Postsecondary Education Data System (IPEDS)**.
+This project explores and processes metadata of American universities using data provided by the **Integrated Postsecondary Education Data System (IPEDS)**.
 
-## Contenu du dépôt
+## Repository Content
 
-- IPEDS_data.ipynb # Notebook Jupyter contenant l'analyse et le traitement des données IPEDS
-- IPEDS_data.xlsx # Fichier source des données brutes issues d'IPEDS
+- `IPEDS_data.ipynb` – Jupyter Notebook containing the analysis and processing of IPEDS data  
+- `IPEDS_data.xlsx` – Source file with raw data from IPEDS
 
-## Objectif
+## Objective
 
-L’objectif principal de ce projet est de :
-- Charger et explorer les données des universités américaines
-- Identifier et extraire des métadonnées utiles : localisation, statut public/privé, effectifs, etc.
-- Préparer ces données pour des usages futurs en data science ou en visualisation
+The main goals of this project are to:
+- Load and explore data on American universities  
+- Identify and extract useful metadata: location, public/private status, enrollment figures, etc.  
+- Prepare this data for future use in data science or visualization
 
-## Technologies utilisées
+## Technologies Used
 
-- Python 3.x
-- Jupyter Notebook
-- Pandas
+- Python 3.x  
+- Jupyter Notebook  
+- Pandas  
 - IPEDS (Integrated Postsecondary Education Data System)
